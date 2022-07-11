@@ -22,6 +22,8 @@
   <img align="center" alt="logoCsharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="IrwingPic" height="150" src="https://cdn.discordapp.com/attachments/946746595133751321/996123830592491550/ezgif.com-gif-maker.gif?width=676&height=676"/>
 </div>
+
+![Snake animation](https://github.com/irwing-moura/irwing-moura/blob/output/github-contribution-grid-snake.svg)
   
 
   
