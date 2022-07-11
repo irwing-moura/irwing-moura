@@ -1,7 +1,7 @@
 ### Olá!!! Eu sou o Irwing 👋
 
 
-- 👨‍💻 Hoje trabalho com back-end, principalmente com Java
+- ☕ Hoje trabalho com back-end, principalmente com Java
 - 📚 Estudando React e Docker
 - 😊 Pronomes: Ele/dele
 
