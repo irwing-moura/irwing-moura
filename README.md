@@ -5,7 +5,7 @@
 - 📚 Estudando React e Docker
 - 😊 Pronomes: Ele/dele
 
-<img align="right" src="/irwing-moura.gif?raw=true" width="200px" height="200">
+<img align="right" src="/capybara-encanto-encanto.gif?raw=true" width="200px" height="200">
 
 <div align="left">
   <a href="https://github.com/irwing-moura">
